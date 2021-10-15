@@ -13,4 +13,11 @@ const getAllMoviesByName = async (req, res) => {
   res.status(200).json(response);
 };
 
-module.exports = { getAllMovies, getAllMoviesByName };
+const getMovieById = async (req, res) => {
+  const { id } = req.params;
+  const response = await movieService.getById(id);
+
+  res.status(200).json(response[0]);
+};
+
+module.exports = { getAllMovies, getAllMoviesByName, getMovieById };
