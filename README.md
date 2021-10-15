@@ -2,7 +2,7 @@
 ---
 ## Stacks
 
-<img width="100px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
+<img width="30px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
 
 ---
 
