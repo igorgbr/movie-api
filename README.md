@@ -26,7 +26,7 @@ Consume a The Movie Database API to return a list of movies and movie names.
 ### Routes
 
 * GET /movies
-Return a movies catalog
+| Return a movies catalog
 
 * GET /movies/names
-Return a movies catalog by name
+| Return a movies catalog by name
