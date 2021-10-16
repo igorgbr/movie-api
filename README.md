@@ -29,7 +29,7 @@ Consume a The Movie Database API to return a list of movies and movie names.
 Return all movies from catalog discovery
 
 * GET /movies/names |
-Return all movies from catalog discovery by name
+Return all movie names from catalog discovery
 
 * GET /movies/names/:id |
 Return a movie from catalog discovery by id
